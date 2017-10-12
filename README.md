@@ -1,1 +1,5 @@
-# raupjc-hw0
+# Pitanje 1 :
+lalala
+
+# Pitanje 2 :
+lalal
